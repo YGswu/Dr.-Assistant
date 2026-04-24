@@ -1,4 +1,4 @@
-## 📌 Temporary Guidance Repository
+## 📌 Guidance Repository
 
 **Paper: [ACL'26 Findings] Dr. Assistant: Enhancing Clinical Diagnostic Inquiry via Structured Diagnostic Reasoning Data and Reinforcement Learning**
 
@@ -12,9 +12,7 @@
 
 ## 📖 Paper
 
-Paper URL (preliminary version): https://arxiv.org/abs/2601.13690
-
-> Note: This is a preliminary arXiv version, and we will update the latest revision soon.
+Paper URL (the latest version): https://arxiv.org/abs/2601.13690v2
 
 
 ## 📑 Citation
